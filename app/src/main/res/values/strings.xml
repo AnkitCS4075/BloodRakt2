@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">BloodRakt</string>
+    <string name="edit_email">Email</string>
+    <string name="edit_password">Password</string>
+    <string name="button_login">Login</string>
+    <string name="button_register">Register</string>
+    <string name="text_registerMessage">Not a User? Register</string>
+    <string name="homescreenlogoimageview">HomeScreenLogoImageView</string>
+    <string name="registrationLabel">Registration</string>
+    <string name="registerSubmitButton">Register</string>
+    <string name="register_firstName">First Name</string>
+    <string name="register_lastName">Last Name</string>
+    <string name="register_DOB">DOB(DD/MM/YYYY)</string>
+    <string name="register_phone">Phone Number</string>
+    <string name="register_email">Email Address</string>
+    <string name="register_password">Password</string>
+    <string name="register_location">Location</string>
+    <string name="register_checkbox_isdonortext">Become a Donor</string>
+    <string-array name="register_BloodGroup">
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </string-array>
+    <string-array name="register_Location">
+        <item>Mumbai</item>
+        <item>Delhi</item>
+        <item>Banglore</item>
+        <item>Hyderabad</item>
+        <item>Chennai</item>
+        <item>Kolkata</item>
+        <item>Surat</item>
+        <item>Pune</item>
+        <item>Jaipur</item>
+        <item>Lucknow</item>
+        <item>Kanpur</item>
+        <item>Nagpur</item>
+        <item>Indore</item>
+        <item>IThane</item>
+    </string-array>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">User FullName</string>
+    <string name="nav_header_subtitle">user.email@mail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_Activities">Activities</string>
+    <string name="menu_donateBlood">Donate Blood</string>
+    <string name="menu_rewards">Rewards</string>
+    <string name="menu_WhyDonateBlood">Why Donate Blood?</string>
+    <string name="menu_logout">Logout</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawerActivity</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="requestLabelString">Request Blood</string>
+    <string name="request_BloodGroupLabel">Select Blood Group</string>
+
+    <string-array name="request_BloodGroupSpinnerArray">
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </string-array>
+    <string name="request_PurposeLabel">Purpose</string>
+    <string name="request_PurposeTextHint">Purpose of your Request</string>
+    <string name="request_SubmitButton">Submit</string>
+    <string name="request_LocationLabel">Location</string>
+    <string name="request_LocationText">User\'s location on Google Maps</string>
+</resources>
